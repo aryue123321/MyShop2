@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contracts\IRepor.cs" />
     <Compile Include="InMemoryRepo.cs" />
     <Compile Include="Models\BaseEntity.cs" />
     <Compile Include="Models\Product.cs" />
